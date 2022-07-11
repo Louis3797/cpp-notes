@@ -67,6 +67,7 @@ Install GCC compiler on mac with homebrew ``` brew install gcc ```
 - [learncpp.com](https://www.learncpp.com/) - Nice Tutorial site
 - [Free Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md#c)
 - [Clang vs GCC](https://www.quora.com/What-is-the-difference-between-Clang-and-GCC) - Which is better?
+- [Array vs Vector vs List](https://stackoverflow.com/questions/1905417/array-vs-vector-vs-list)
 
 ### Github Repos
 - [awesome-cpp](https://github.com/fffaraz/awesome-cpp)
